@@ -1,2 +1,157 @@
-<xml version="1.0" encoding="UTF-8">
-<banner_configuration version="0.2" xml_creation_date="2016-07-18T14:37:25+00:00" author="eimers@mehrkanal.com"><assistant_values><entry key="ass_dealer_name"><![CDATA[MEHRKANAL This name is way too long GmbH]]></entry><entry key="ass_dealer_no"><![CDATA[adminen]]></entry><entry key="ass_dealer_email_for_confirmations"><![CDATA[kuechler@mehrkanal.com]]></entry><entry key="ass_dealersetting_use_internal_rights"><![CDATA[1]]></entry><entry key="ass_dealersetting_mms_homepage"><![CDATA[]]></entry><entry key="ass_dealersetting_mal_localize_for_be_fr"><![CDATA[0]]></entry><entry key="ass_dealersetting_mal_localize_for_cz_cs"><![CDATA[0]]></entry><entry key="ass_dealersetting_mal_localize_for_dk_dk"><![CDATA[0]]></entry><entry key="ass_dealersetting_mal_localize_for_en_en"><![CDATA[1]]></entry><entry key="ass_dealersetting_mal_localize_for_es_es"><![CDATA[0]]></entry><entry key="ass_dealersetting_mal_localize_for_hu_hu"><![CDATA[0]]></entry><entry key="ass_dealersetting_mal_localize_for_ie_en"><![CDATA[0]]></entry><entry key="ass_dealersetting_mal_localize_for_nl_nl"><![CDATA[0]]></entry><entry key="ass_dealersetting_mal_localize_for_no_no"><![CDATA[0]]></entry><entry key="ass_dealersetting_mal_localize_for_pl_pl"><![CDATA[0]]></entry><entry key="ass_dealersetting_mal_localize_for_se_sv"><![CDATA[0]]></entry><entry key="ass_dealersetting_mal_localize_for_eu_en"><![CDATA[1]]></entry><entry key="ass_dealersetting_mal_localize_for_ro_ro"><![CDATA[0]]></entry><entry key="ass_name"><![CDATA[MEHRKANAL GmbH]]></entry><entry key="ass_street"><![CDATA[Wilhelm-Beckmann-Str. 7]]></entry><entry key="ass_postal_code"><![CDATA[45307]]></entry><entry key="ass_location"><![CDATA[Essen]]></entry><entry key="ass_phone"><![CDATA[01234 5678890]]></entry><entry key="ass_fax"><![CDATA[01234 567889011]]></entry><entry key="ass_company"><![CDATA[MEHRKANAL GmbH]]></entry><entry key="ass_contact_person"><![CDATA[]]></entry><entry key="ass_building"><![CDATA[]]></entry><entry key="ass_street_without_number"><![CDATA[Wilhelm-Beckmann-Str. 7]]></entry><entry key="ass_city_town"><![CDATA[Essen]]></entry><entry key="ass_county"><![CDATA[]]></entry><entry key="ass_country"><![CDATA[]]></entry><entry key="ass_email"><![CDATA[heider@mehrkanal.com]]></entry><entry key="autohaus_name"><![CDATA[MEHRKANAL GmbH]]></entry><entry key="autohaus_strasse"><![CDATA[Wilhelm-Beckmann-Str. 7]]></entry><entry key="autohaus_plz"><![CDATA[45307]]></entry><entry key="autohaus_ort"><![CDATA[Essen]]></entry><entry key="autohaus_tel"><![CDATA[01234 5678890]]></entry><entry key="autohaus_fax"><![CDATA[01234 567889011]]></entry><entry key="ass_strasse"><![CDATA[Wilhelm-Beckmann-Str. 7]]></entry><entry key="ass_plz"><![CDATA[45307]]></entry><entry key="ass_ort"><![CDATA[Essen]]></entry><entry key="autohaus_homepage"><![CDATA[]]></entry><entry key="date_short_de_de"><![CDATA[18.07.2016]]></entry><entry key="ass_templateid"><![CDATA[900]]></entry><entry key="ass_hauspreis"><![CDATA[50,000000000.-]]></entry></assistant_values><banner_information><username><![CDATA[jassen]]></username><dealer_nr><![CDATA[adminen]]></dealer_nr><banner_type><![CDATA[online_banner]]></banner_type><landing_page><![CDATA[https://mk-bn.de/goto.php?url=http%3A%2F%2Fwww.mehrkanal.com]]></landing_page><order_nr><![CDATA[FMP-adminen-OB-2235]]></order_nr></banner_information><snippet_values/></banner_configuration>
+<banner_configuration version="0.2" xml_creation_date="2016-07-18T14:37:25+00:00" author="eimers@mehrkanal.com">
+    <assistant_values>
+        <entry key="ass_dealer_name">
+            <![CDATA[MEHRKANAL This name is way too long GmbH]]>
+        </entry>
+        <entry key="ass_dealer_no">
+            <![CDATA[adminen]]>
+        </entry>
+        <entry key="ass_dealer_email_for_confirmations">
+            <![CDATA[kuechler@mehrkanal.com]]>
+        </entry>
+        <entry key="ass_dealersetting_use_internal_rights">
+            <![CDATA[1]]>
+        </entry>
+        <entry key="ass_dealersetting_mms_homepage">
+            <![CDATA[]]>
+        </entry>
+        <entry key="ass_dealersetting_mal_localize_for_be_fr">
+            <![CDATA[0]]>
+        </entry>
+        <entry key="ass_dealersetting_mal_localize_for_cz_cs">
+            <![CDATA[0]]>
+        </entry>
+        <entry key="ass_dealersetting_mal_localize_for_dk_dk">
+            <![CDATA[0]]>
+        </entry>
+        <entry key="ass_dealersetting_mal_localize_for_en_en">
+            <![CDATA[1]]>
+        </entry>
+        <entry key="ass_dealersetting_mal_localize_for_es_es">
+            <![CDATA[0]]>
+        </entry>
+        <entry key="ass_dealersetting_mal_localize_for_hu_hu">
+            <![CDATA[0]]>
+        </entry>
+        <entry key="ass_dealersetting_mal_localize_for_ie_en">
+            <![CDATA[0]]>
+        </entry>
+        <entry key="ass_dealersetting_mal_localize_for_nl_nl">
+            <![CDATA[0]]>
+        </entry>
+        <entry key="ass_dealersetting_mal_localize_for_no_no">
+            <![CDATA[0]]>
+        </entry>
+        <entry key="ass_dealersetting_mal_localize_for_pl_pl">
+            <![CDATA[0]]>
+        </entry>
+        <entry key="ass_dealersetting_mal_localize_for_se_sv">
+            <![CDATA[0]]>
+        </entry>
+        <entry key="ass_dealersetting_mal_localize_for_eu_en">
+            <![CDATA[1]]>
+        </entry>
+        <entry key="ass_dealersetting_mal_localize_for_ro_ro">
+            <![CDATA[0]]>
+        </entry>
+        <entry key="ass_name">
+            <![CDATA[MEHRKANAL GmbH]]>
+        </entry>
+        <entry key="ass_street">
+            <![CDATA[Wilhelm-Beckmann-Str. 7]]>
+        </entry>
+        <entry key="ass_postal_code">
+            <![CDATA[45307]]>
+        </entry>
+        <entry key="ass_location">
+            <![CDATA[Essen]]>
+        </entry>
+        <entry key="ass_phone">
+            <![CDATA[01234 5678890]]>
+        </entry>
+        <entry key="ass_fax">
+            <![CDATA[01234 567889011]]>
+        </entry>
+        <entry key="ass_company">
+            <![CDATA[MEHRKANAL GmbH]]>
+        </entry>
+        <entry key="ass_contact_person">
+            <![CDATA[]]>
+        </entry>
+        <entry key="ass_building">
+            <![CDATA[]]>
+        </entry>
+        <entry key="ass_street_without_number">
+            <![CDATA[Wilhelm-Beckmann-Str. 7]]>
+        </entry>
+        <entry key="ass_city_town">
+            <![CDATA[Essen]]>
+        </entry>
+        <entry key="ass_county">
+            <![CDATA[]]>
+        </entry>
+        <entry key="ass_country">
+            <![CDATA[]]>
+        </entry>
+        <entry key="ass_email">
+            <![CDATA[heider@mehrkanal.com]]>
+        </entry>
+        <entry key="autohaus_name">
+            <![CDATA[MEHRKANAL GmbH]]>
+        </entry>
+        <entry key="autohaus_strasse">
+            <![CDATA[Wilhelm-Beckmann-Str. 7]]>
+        </entry>
+        <entry key="autohaus_plz">
+            <![CDATA[45307]]>
+        </entry>
+        <entry key="autohaus_ort">
+            <![CDATA[Essen]]>
+        </entry>
+        <entry key="autohaus_tel">
+            <![CDATA[01234 5678890]]>
+        </entry>
+        <entry key="autohaus_fax">
+            <![CDATA[01234 567889011]]>
+        </entry>
+        <entry key="ass_strasse">
+            <![CDATA[Wilhelm-Beckmann-Str. 7]]>
+        </entry>
+        <entry key="ass_plz">
+            <![CDATA[45307]]>
+        </entry>
+        <entry key="ass_ort">
+            <![CDATA[Essen]]>
+        </entry>
+        <entry key="autohaus_homepage">
+            <![CDATA[]]>
+        </entry>
+        <entry key="date_short_de_de">
+            <![CDATA[18.07.2016]]>
+        </entry>
+        <entry key="ass_templateid">
+            <![CDATA[900]]>
+        </entry>
+        <entry key="ass_hauspreis">
+            <![CDATA[50,000000000.-]]>
+        </entry>
+    </assistant_values>
+    <banner_information>
+        <username>
+            <![CDATA[jassen]]>
+        </username>
+        <dealer_nr>
+            <![CDATA[adminen]]>
+        </dealer_nr>
+        <banner_type>
+            <![CDATA[online_banner]]>
+        </banner_type>
+        <landing_page>
+            <![CDATA[https://mk-bn.de/goto.php?url=http%3A%2F%2Fwww.mehrkanal.com]]>
+        </landing_page>
+        <order_nr>
+            <![CDATA[FMP-adminen-OB-2235]]>
+        </order_nr>
+    </banner_information>
+    <snippet_values/>
+</banner_configuration>
