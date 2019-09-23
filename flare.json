@@ -1,0 +1,358 @@
+[{
+ "name": "Custom Journey",
+ "children": [
+  {
+   "name": "ACQUISITION",
+   "value": 0.25,
+   "children": [
+    {
+     "name": "IN MARKET",
+     "value":0.5,
+     "children": [
+      {
+       "name": "INFORMATION GATHERING",
+       "value":0.25,
+       "children": [
+        {
+         "id": "1-1",
+         "name": "Search Google / Other Search engines",
+         "value":0.125,
+         "status": 0
+        },
+        {
+         "id": "1-2",
+         "name": "Search social",
+         "value":0.125,
+         "status": 0
+        },
+        {
+         "id": "1-3",
+         "name": "Visit online forums",
+         "value":0.125,
+         "status": 0
+        },
+        {
+         "id": "1-4",
+         "name": "View 3rd party reviews",
+         "value":0.125,
+         "status": 0
+        },
+        {
+         "id": "1-5",
+         "name": "Discover new model launches or special vehicle promotions",
+         "value":0.125,
+         "status": 0
+        },
+        {
+         "id": "1-6",
+         "name": "Targeted online media",
+         "value":0.125,
+         "status": 0
+        },
+        {
+         "id": "1-7",
+         "name": "Research finance products",
+         "value":0.125,
+         "status": 0
+        },
+        {
+         "id": "1-8",
+         "name": "Research vehicle affordability by budget",
+         "value":0.125,
+         "status": 0
+        }
+       ]
+      },
+      {
+       "name": "VISIT FORD WEBSITE",
+       "value":0.25,
+       "children": [
+        {
+         "id": "1-9",
+         "name": "Visit campaign landing page",
+         "value":0.25,
+         "status": 0
+        },
+        {
+         "id": "1-10",
+         "name": "Visit Ford Social site",
+         "value":0.25,
+         "status": 0
+        },
+        {
+         "id": "1-11",
+         "name": "Visit Ford Dealer site",
+         "value":0.25,
+         "status": 0
+        },
+        {
+         "id": "1-12",
+         "name": "Visit FORD.xx website",
+         "value":0.25,
+         "status": 2
+        }
+       ]
+      },
+      {
+       "name": "INTERACT WITH FORD WESBSITE",
+       "value":0.25,
+       "children": [
+        {
+         "id": "1-13",
+         "name": "Request a Ford Brand or Model brochure (printed)",
+         "value":0.2,
+         "status": 2
+        },
+        {
+         "id": "1-14",
+         "name": "Attend Ford event",
+         "value":0.2,
+         "status": 0
+        },
+        {
+         "id": "1-15",
+         "name": "Download eBrochure",
+         "value":0.2,
+         "status": 2
+        },
+        {
+         "id": "1-16",
+         "name": "Brochure out of stock",
+         "value":0.2,
+         "status": 0
+        },
+        {
+         "id": "1-17",
+         "name": "Download vehicle price list PDF",
+         "value":0.2,
+         "status": 0
+        }
+       ]
+      },
+      {
+       "name": "DATA CAPTURE/KMI",
+       "value":0.25,
+       "children": [
+        {
+         "id": "1-18",
+         "name": "Sign up for KMI",
+         "value":0.5,
+         "status": 2
+        },
+        {
+         "id": "1-19",
+         "name": "Online data capture via NWP/Social campaign",
+         "value":0.5,
+         "status": 2
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ACTIVELY SHOPPING",
+     "value":0.5,
+     "children": [
+      {
+       "name": "BUILD & PRICE",
+       "value":0.25,
+       "children": [
+        {
+         "id": "2-1",
+         "name": "Complete B&P",
+         "value":0.125,
+         "status": 2
+        },
+        {
+         "id": "2-2",
+         "name": "Save B&P for later",
+         "value":0.125,
+         "status": 0
+        },
+        {
+         "id": "2-3",
+         "name": "Abandon B&P",
+         "value":0.125,
+         "status": 2
+        },
+        {
+         "id": "2-4",
+         "name": "Retrieve existing B&P",
+         "value":0.125,
+         "status": 0
+        },
+        {
+         "id": "2-5",
+         "name": "Get a finance quote via B&P",
+         "value":0.125,
+         "status": 1
+        },
+        {
+         "id": "2-6",
+         "name": "Retrieve existing finance quote via B&P",
+         "value":0.125,
+         "status": 0
+        },
+        {
+         "id": "2-7",
+         "name": "Share B&P",
+         "value":0.125,
+         "status": 0
+        },
+        {
+         "id": "2-8",
+         "name": "B&P send to dealer",
+         "value":0.125,
+         "status": 2
+        }
+       ]
+      },
+      {
+       "name": "DEALER CONTACT",
+       "value":0.25,
+       "children": [
+        {
+         "id": "2-9",
+         "name": "Request Dealer Contact",
+         "value":0.33,
+         "status": 2
+        },
+        {
+         "id": "2-10",
+         "name": "Complete Dealer Search",
+         "value":0.33,
+         "status": 0
+        },
+        {
+         "id": "2-11",
+         "name": "Abandon Dealer Search",
+         "value":0.34,
+         "status": 0
+        }
+       ]
+      },
+      {
+       "name": "VISIT DEALER/TEST DRIVE",
+       "value":0.25,
+       "children": [
+        {
+         "id": "2-12",
+         "name": "Visit dealer",
+         "value":0.25,
+         "status": 0
+        },
+        {
+         "id": "2-13",
+         "name": "Book a test drive",
+         "value":0.25,
+         "status": 2
+        },
+        {
+         "id": "2-14",
+         "name": "No show at test drive",
+         "value":0.25,
+         "status": 0
+        },
+        {
+         "id": "2-15",
+         "name": "Complete test drive",
+         "value":0.25,
+         "status": 0
+        }
+       ]
+      },
+      {
+       "name": "FORD CREDIT",
+       "value":0.25,
+       "children": [
+        {
+         "id": "2-16",
+         "name": "Request Ford Credit brochure (printed)",
+         "value":0.2,
+         "status": 2
+        },
+        {
+         "id": "2-17",
+         "name": "Visit Ford Credit website",
+         "value":0.2,
+         "status": 0
+        },
+        {
+         "id": "2-18",
+         "name": "Abandon vehicle valuation (FoB)",
+         "value":0.2,
+         "status": 0
+        },
+        {
+         "id": "2-19",
+         "name": "Complete vehicle valuation (FoB)",
+         "value":0.2,
+         "status": 0
+        },
+        {
+         "id": "2-20",
+         "name": "Discover Ford Credit/Ford Lease/Ford insure promotions",
+         "value":0.2,
+         "status": 0
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ONBOARDING",
+   "value":0.25,
+   "children": [
+    {
+     "name": "HANDOVER",
+     "value":0.33,
+     "children": []
+    },
+    {
+     "name": "POST-HANDOVER",
+     "value":0.22,
+     "children": []
+    },
+    {
+     "name": "SIDE-SELL",
+     "value":0.34,
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "IN-LIFE",
+   "value":0.25,
+   "children": [
+    {
+     "name": "COMMS",
+     "value":0.33,
+     "children": []
+    },
+    {
+     "name": "VEHICLE CARE",
+     "value":0.33,
+     "children": []
+    },
+    {
+     "name": "FINANCE & SUBSCRIPTIONS",
+     "value":0.34,
+     "children": []
+    }
+   ]
+  },
+  {
+   "name": "RENEWAL",
+   "value":0.25,
+   "children": [
+    {
+     "name": "RENEWAL",
+     "value":1,
+     "children": []
+    }
+   ]
+  }
+ ]
+}]
